@@ -8,7 +8,8 @@ public class RewardPointProgramApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RewardPointProgramApplication.class, args);
-		System.out.println("Test RewardPointProgramApplication");
+		System.out.println("Test RewardPointProgramApplication123");
+		
 	}
 
 }
