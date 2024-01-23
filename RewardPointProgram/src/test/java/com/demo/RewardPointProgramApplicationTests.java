@@ -8,6 +8,8 @@ class RewardPointProgramApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+		System.out.println("Test RewardPointProgramApplication");
 	}
 
 }
